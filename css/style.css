@@ -10,7 +10,8 @@ body{
 	font-size:13px;
 	line-height:20px;
 	padding-top:48px;
-	background:#ddd url('../img/back.png') repeat;
+	/* background:#ddd url('../img/back.png') repeat; */
+    background-color:#ffffff;
 	-webkit-font-smoothing: antialiased;
 }
 
